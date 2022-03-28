@@ -3,11 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/layout/activity_cuenta_dueno.xml" value="0.15520833333333334" />
+        <entry key="app/src/main/res/layout/activity_localizacion.xml" value="0.15520833333333334" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.13496376811594202" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2757212542105412" />
         <entry key="app/src/main/res/layout/activity_resetpassword.xml" value="0.29332711040109827" />
         <entry key="app/src/main/res/layout/activity_signin.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_signup.xml" value="0.226700439453125" />
+        <entry key="app/src/main/res/layout/petlist_format.xml" value="0.15520833333333334" />
       </map>
     </option>
   </component>
